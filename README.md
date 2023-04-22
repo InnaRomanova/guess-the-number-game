@@ -2,4 +2,4 @@
 
 **Игра на Java Script "Угадай число".**
 
-\*\*Для просмотра[откройте](https://innaromanova.github.io/guess-the-number-game/)
+**Для просмотра[откройте](https://innaromanova.github.io/guess-the-number-game/)**
